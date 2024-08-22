@@ -1,13 +1,17 @@
-## Hi there 👋
+### Sejam Bem-vindos ao meu mundo!
 
-<!-- Cabeçalhos-->
+📝 Olá, me chamo Victor Santos, mas meus amigos me chamam de "Nero"<br>
+💬 Sou estudante de Analise e Desenvolvimento de Sistemas.<br>
+💬 Ainda buscando minha primeira experiencia prossional na area de Tecnologia.<br>
+✉️ [Acesse meu Linkedin](www.linkedin.com/in/victor-santos-de-souza)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px">
 
-# Título 1
-## Título 2
-### Título 3 
-#### Título 4
-##### Título 5
-###### Título 6
+
+
+
+---------------------
+
+![Satoro Gojo](https://images4.alphacoders.com/133/1332281.jpeg)
 
 
 
