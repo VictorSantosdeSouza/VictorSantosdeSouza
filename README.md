@@ -1,4 +1,7 @@
 ### Sejam Bem-vindos ao meu mundo!
+![Satoro Gojo](https://images4.alphacoders.com/133/1332281.jpeg)
+
+----------------------
 
 📝 Olá, me chamo Victor Santos, mas meus amigos me chamam de "Nero"<br>
 💬 Sou estudante de Analise e Desenvolvimento de Sistemas.<br>
@@ -9,7 +12,6 @@
 
 ---------------------
 
-![Satoro Gojo](https://images4.alphacoders.com/133/1332281.jpeg)
 
 
 
