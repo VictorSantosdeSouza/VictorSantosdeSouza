@@ -5,7 +5,7 @@
 
 📝 *Olá, me chamo Victor Santos, mas meus amigos me chamam de "Nero"*<br>
 💬 *Sou estudante de Analise e Desenvolvimento de Sistemas.*<br>
-💬 *Ainda buscando minha primeira experiencia prossional na area de Tecnologia*.<br>
+💬 *Ainda buscando minha primeira experiencia profissional na area de Tecnologia*.<br>
 ✉️ **[Acesse meu Linkedin](https://www.linkedin.com/in/victor-santos-de-souza/)**<br>
 
 | Cursos    | Certificados |
@@ -23,14 +23,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="90px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="90px">
 
-<div/>
-<div/>
+<div\>
+<div\>
 
 -------
-
-![Patting](https://media1.tenor.com/m/Jm7K_nwiHf8AAAAd/xugoi-persona.gif)
-
-
+<div align="center">
+  <img src="https://media1.tenor.com/m/Jm7K_nwiHf8AAAAd/xugoi-persona.gif" alt="Apresentação" Width="700"-esse regula o comprimento height="450px"-esse regula a altura>
+</div>
 <!--
 **VictorSantosdeSouza/VictorSantosdeSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
