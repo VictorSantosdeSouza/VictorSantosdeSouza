@@ -28,7 +28,7 @@
 
 -------
 
-<img src="hthttps://i.makeagif.com/media/8-26-2020/-nJO_g.gif" width="200px">
+![]
 
 
 <!--
