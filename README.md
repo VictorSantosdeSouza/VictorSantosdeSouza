@@ -28,7 +28,7 @@
 
 -------
 
-![Patting](https://media.tenor.com/QVJGE1hg5GcAAAAi/cat-explosion.gif)
+![Patting](https://media1.tenor.com/m/Jm7K_nwiHf8AAAAd/xugoi-persona.gif)
 
 
 <!--
