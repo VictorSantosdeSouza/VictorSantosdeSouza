@@ -28,7 +28,7 @@
 
 -------
 
-![Patting](https://media.tenor.com/8lCC65kDdwUAAAAi/petthepeepo-peepo.gif)
+![Patting](https://media.tenor.com/QVJGE1hg5GcAAAAi/cat-explosion.gif)
 
 
 <!--
