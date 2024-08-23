@@ -28,8 +28,7 @@
 
 -------
 
-![Patting](https://i.makeagif.com/media/8-26-2020/-nJO_g.gif)
-
+<img src="hthttps://i.makeagif.com/media/8-26-2020/-nJO_g.gif" width="200px">
 
 
 <!--
@@ -47,3 +46,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
+[def]: https://i.makeagif.com/media/8-26-2020/-nJO_g.gif
