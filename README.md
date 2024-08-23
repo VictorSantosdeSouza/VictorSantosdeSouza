@@ -27,7 +27,8 @@
 <div/>
 
 -------
-![Patting](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fi62a09u8pes51.gif)
+
+![Patting](https://i.makeagif.com/media/8-26-2020/-nJO_g.gif)
 
 
 
