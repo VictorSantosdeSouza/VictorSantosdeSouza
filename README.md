@@ -6,7 +6,6 @@
 📝 *Olá, me chamo Victor Santos, mas meus amigos me chamam de "Nero"*<br>
 💬 *Sou estudante de Analise e Desenvolvimento de Sistemas.*<br>
 💬 *Ainda buscando minha primeira experiencia profissional na area de Tecnologia*.<br>
-✉️ **Contato:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-santos-de-souza/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:santosdesouzav87@gmail.com)
 
