@@ -1,5 +1,4 @@
 ### Sejam Bem-vindos ao meu mundo!
-![Satoro Gojo](https://images4.alphacoders.com/133/1332281.jpeg)
 
 ----------------------
 
